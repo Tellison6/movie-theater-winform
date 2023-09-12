@@ -1,0 +1,11 @@
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\bin\Debug\Sinema Salonu.exe.config
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\bin\Debug\Sinema Salonu.exe
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\bin\Debug\Sinema Salonu.pdb
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema Salonu.csproj.AssemblyReference.cache
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema Salonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema_Salonu.Form1.resources
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema_Salonu.Properties.Resources.resources
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema Salonu.csproj.GenerateResource.cache
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema Salonu.csproj.CoreCompileInputs.cache
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema Salonu.exe
+C:\Users\özhan\Desktop\Sinema Salonu\Sinema Salonu\obj\Debug\Sinema Salonu.pdb
